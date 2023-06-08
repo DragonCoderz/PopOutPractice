@@ -27,13 +27,11 @@ To get started with the PopUpPractice project, follow these steps:
 
 2. Open the cloned directory in your preferred code editor.
 
-3. Explore the project structure and files:
+3. Explore the project structure and files (**Note** that there are multiple attempts to traverse through and look at):
 
    - `index.html`: Contains the HTML structure and content of the practice project.
    - `style.css`: Contains the CSS styles for the popup window and other elements.
-   - `script.js`: Contains the JavaScript code for managing the popup window functionality. (Not every attempt might contain such a file)
-
-**Note**, there are multiple attempts to traverse through and look at. 
+   - `script.js`: Contains the JavaScript code for managing the popup window functionality. (Not every attempt might contain such a file) 
 
 4. Customize the popup window:
 
